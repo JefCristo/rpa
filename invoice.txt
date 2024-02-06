@@ -1,0 +1,25 @@
+Invoice Number: INV123456
+
+Date: January 15, 2024
+
+Vendor: ABC Corporation
+
+Address: 123 Main Street, Cityville
+
+----------------------------------------
+
+| Item Description  | Quantity | Unit Price | Total |
+
+|--------------------|----------|------------|-------|
+
+| Product A          | 10       | $20        | $200  |
+
+| Product B          | 5        | $15        | $75   |
+
+----------------------------------------
+
+Subtotal: $275
+
+Tax (10%): $27.50
+
+Total Amount: $302.50
